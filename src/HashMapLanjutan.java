@@ -25,7 +25,7 @@ public class HashMapLanjutan {
     }
 
     public static void mapStringToString() {
-
+        System.out.println("TEST GIT");
     }
 
     public static void mapIntegerToDouble() {
