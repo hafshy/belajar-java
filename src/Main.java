@@ -9,6 +9,7 @@ import java.util.Date;
 public class Main {
     public static void main(String[] args) {
        System.out.println("rigel");
+       System.out.println("hafshy");
     	LocalDate today = LocalDate.now();
         LocalDate someday = LocalDate.of(
                 2000,
